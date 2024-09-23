@@ -122,7 +122,7 @@ hr.solid {
 
 .NeTaze {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-bottom: 50px;
+    margin-bottom: 3.25rem;
     
 }
 
@@ -358,7 +358,7 @@ hr.solid {
 
 @media (max-width: 768px) {
     .banner-text {
-        font-size: 2.5rem;
+        font-size: 1.3rem;
     }
     .banner img {
         width: 100%;
@@ -368,6 +368,21 @@ hr.solid {
         margin: 0;
         width: 100%;
         padding-left: 0;
+    }
+    .banner-about {
+        font-size: 1.3rem;
+    }
+    .horizontal-content-log div {
+        margin: 0;
+        width: 100%;
+        padding-left: 0;
+    }
+    .NeTaze div {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .NeTaze div h1{
+        font-size: 2rem;
     }
 
 }
