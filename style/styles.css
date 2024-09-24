@@ -369,6 +369,9 @@ hr.solid {
         width: 100%;
         padding-left: 0;
     }
+    .horizontal-content h1 {
+        font-size: 2rem;
+    }
     .banner-about {
         font-size: 1.3rem;
     }
@@ -384,6 +387,14 @@ hr.solid {
     .NeTaze div h1{
         font-size: 2rem;
     }
+    .infinite-scroll h1 {
+        font-size: 2rem;
+    }
+
+    .cards img {
+        width: 90%;
+    }
+    
 
 }
 
