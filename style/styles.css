@@ -364,6 +364,9 @@ hr.solid {
         width: 100%;
         height: auto;
     }
+    .banner-logistic {
+        font-size: 1.3rem;
+    }
     .horizontal-content div {
         margin: 0;
         width: 100%;
@@ -380,6 +383,10 @@ hr.solid {
         width: 100%;
         padding-left: 0;
     }
+
+    .horizontal-content-log div ul {
+        font-size: 0.8rem;
+    }
     .NeTaze div {
         padding-left: 0;
         padding-right: 0;
@@ -391,7 +398,7 @@ hr.solid {
         font-size: 2rem;
     }
 
-    .cards img {
+    .cards {
         width: 90%;
     }
     
